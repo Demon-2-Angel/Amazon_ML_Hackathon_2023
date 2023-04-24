@@ -1,0 +1,4 @@
+We have approached this ml hackathon by using linear svm algorithm, where we have used NLP and extracted new feauters from the dataset 
+and used it to predict the Length of the product.
+we have basically used tfidfVectoriser to make a new feature, and get the numeric of all the important data. then by using this we are using Linear SVM
+and predict the length of the product.
